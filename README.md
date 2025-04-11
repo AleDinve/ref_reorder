@@ -3,4 +3,4 @@
 
 A script to reorder references BibTex files alphabetically according to the reference nickname.
 - the package "BibLatexparser" is required
-- the references file should be passed as a .txt file
+- the references file should be passed as (or copy-pasted onto) a .txt file, namely "references.txt"
